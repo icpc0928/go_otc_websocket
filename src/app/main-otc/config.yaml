@@ -1,0 +1,15 @@
+com:
+  alliance:
+    redis:
+      host: localhost:6379
+      password: ''
+    mysql:
+      username: dev
+      password: Yqy{^/3@r|^.g-q+
+      host: 103.96.76.94:61801
+      database: bcex
+    service:
+      market:
+        host: 'http://127.0.0.1:10000'
+
+service: ":7777"
